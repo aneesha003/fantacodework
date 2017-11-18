@@ -1,0 +1,14 @@
+Creating a web site using razor pages is different from creating creating creating a web api
+
+In website using razor pages:
+
+1)we have an already built web page which is not dynamic.
+2)we can manipulate the code and create website as per our desire.
+3)It is comparitively less complex than web Api.
+
+In web Api:
+
+1)There is client which sends a HTTP request and waits for response.
+2)There is a model which represents data in an app
+3)There is controller which handles HTTP request and response.
+4)These are dynamic.
